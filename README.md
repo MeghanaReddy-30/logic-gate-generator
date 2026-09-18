@@ -64,7 +64,7 @@ Or via Python executable module:
 python -m streamlit run app.py
 
 
-Your browser will automatically open  http://10.10.11.235:8501.
+Your browser will automatically open  https://logic-gate-generator-tent899osrupqsmcuqsw6o.streamlit.app/.
 
 🌐 Deploying to Streamlit Community Cloud (Free)
 
